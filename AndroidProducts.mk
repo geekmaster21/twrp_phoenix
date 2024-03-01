@@ -17,6 +17,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_phoenix.mk
+     $(LOCAL_DIR)/twrp_a71.mk
 
-COMMON_LUNCH_CHOICES := twrp_phoenix-eng
+COMMON_LUNCH_CHOICES := twrp_a71-eng
